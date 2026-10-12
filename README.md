@@ -1,4 +1,4 @@
-## PHARMACY-MANAGEMENT-SYSTEM
+## MEDISTOCK PHARMACY-MANAGEMENT-SYSTEM
 
 
 ![Python](https://img.shields.io/badge/python-3.13-blue?logo=python&logoColor=white)
